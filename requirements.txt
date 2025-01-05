@@ -1,0 +1,3 @@
+pandas               # Data handling and manipulation
+matplotlib           # Data visualization (optional for performance charts)
+alpaca-trade-api     # Mock or real trading API integration
